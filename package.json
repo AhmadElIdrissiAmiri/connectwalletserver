@@ -1,5 +1,6 @@
 {
   "name": "wallet-connector-server",
+  "type": "module",
   "version": "1.0.0",
   "description": "server",
   "main": "index.js",
